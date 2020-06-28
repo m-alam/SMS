@@ -1,0 +1,12 @@
+D:\project\SMS\SMS.Framework\bin\Debug\netcoreapp3.1\SMS.Framework.deps.json
+D:\project\SMS\SMS.Framework\bin\Debug\netcoreapp3.1\SMS.Framework.dll
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.csprojAssemblyReference.cache
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.AssemblyInfoInputs.cache
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.AssemblyInfo.cs
+D:\project\SMS\SMS.Framework\bin\Debug\netcoreapp3.1\SMS.Framework.pdb
+D:\project\SMS\SMS.Framework\bin\Debug\netcoreapp3.1\SMS.Data.dll
+D:\project\SMS\SMS.Framework\bin\Debug\netcoreapp3.1\SMS.Data.pdb
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.csproj.CopyComplete
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.dll
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.pdb
+D:\project\SMS\SMS.Framework\obj\Debug\netcoreapp3.1\SMS.Framework.csproj.CoreCompileInputs.cache
